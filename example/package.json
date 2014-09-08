@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "build": "browserify browser.js -o bundle.js",
+    "watch": "watchify browser.js -o bundle.js -dv"
+  }
+}
