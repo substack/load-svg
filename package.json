@@ -1,0 +1,34 @@
+{
+  "name": "load-svg",
+  "version": "1.0.0",
+  "description": "load an svg element over xhr",
+  "main": "index.js",
+  "dependencies": {
+    "xhr": "^1.16.0"
+  },
+  "devDependencies": {
+    "ecstatic": "~0.5.4",
+    "tape": "^2.13.2"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/substack/load-svg.git"
+  },
+  "homepage": "https://github.com/substack/load-svg",
+  "keywords": [
+    "svg",
+    "browser",
+    "dom",
+    "xhr",
+    "load"
+  ],
+  "author": {
+    "name": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net"
+  },
+  "license": "MIT"
+}

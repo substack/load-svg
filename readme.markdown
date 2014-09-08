@@ -1,6 +1,6 @@
 # load-svg
 
-load an svg over xhr and create a dom element
+load an svg element over xhr
 
 # example
 
