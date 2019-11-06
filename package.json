@@ -7,7 +7,7 @@
     "xhr": "^1.16.0"
   },
   "devDependencies": {
-    "ecstatic": "~0.5.4",
+    "ecstatic": "~4.1.2",
     "tape": "^2.13.2"
   },
   "scripts": {
